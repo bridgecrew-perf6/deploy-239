@@ -1,4 +1,3 @@
-
 version: 2.1
 orbs:
   node: circleci/node@4.1.0
@@ -10,7 +9,6 @@ jobs:
     steps:
       - node/install
       - checkout
-      - aws-cli/setup
       - run:
           name: Front-End Install
           command: |
