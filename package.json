@@ -3,7 +3,7 @@
     "scripts": {
         "frontend:install": "cd udagram-frontend && npm install",
         "frontend:build": "cd udagram-frontend && npm run build",
-        "backend:install": "cd udagram-api &&  npm i &&  npm i bcrypt ",
+        "backend:install": "cd udagram-api &&  npm i &&  npm i bcrypt && npm i @types/bcrypt",
         "backend:build": "cd udagram-api && npm run build"
     },
     "devDependencies": {}
