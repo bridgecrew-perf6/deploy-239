@@ -9,8 +9,6 @@ jobs:
     steps:
       - node/install
       - checkout
-      - run: |
-          node --version
       - run:
           name: Front-End Install
           command: |
