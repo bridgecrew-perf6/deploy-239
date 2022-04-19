@@ -2,7 +2,7 @@
 The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
 ## Getting Started
-[Udagram_APP](http://mosalah-udagram.s3-website-us-east-1.amazonaws.com/home)
+[Udagram_APP](http://mosalah-udagram.s3-website-us-east-1.amazonaws.com)
 
 Click the link to open app
 ### Configuration
