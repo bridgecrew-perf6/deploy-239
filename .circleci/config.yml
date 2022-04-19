@@ -9,6 +9,8 @@ jobs:
       - image: cimg/node:15.0.1
     steps:
       - checkout
+      - aws-cli/setup
+      - eb/setup
       - run: node --version
       - run:
           name: Front-End Install
