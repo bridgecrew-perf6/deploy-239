@@ -13,6 +13,12 @@ Click the link to open app
 5. [Pipeline](./hostApp/circleCI.png)
 6. [Infrastructure description](./hostApp/Arch.png)
 
+### Pipeline steps
+1. setup environment
+2. install dependencies
+3. build
+4. deploy
+
 ## Built With
 
 - [Angular](https://angular.io/) - Single Page Application Framework
