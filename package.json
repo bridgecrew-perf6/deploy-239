@@ -5,7 +5,9 @@
       "frontend:deploy":"cd udagram-frontend && npm run deploy",
       "backend:install":"cd udagram-api &&  npm i &&  npm i bcrypt && npm i @types/bcrypt",
       "backend:build":"cd udagram-api && npm run build",
-      "backend:deploy":"cd udagram-api && npm run deploy"
+      "backend:deploy":"cd udagram-api && npm run deploy",
+      "backend:test": "cd ./udagram-api && npm run test",
+      "frontend:test": "cd ./udagram-frontend && npm run test"
    },
    "devDependencies":{}
 }
