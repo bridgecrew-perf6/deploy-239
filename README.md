@@ -12,6 +12,8 @@ Click the link to open app
 4. [environmentVAR](./hostApp/environmentVAR.png)
 5. [Pipeline](./hostApp/circleCI.png)
 6. [Infrastructure description](./hostApp/Arch.png)
+7. [pipelineSteps](./hostApp/pipelineSteps.png)
+
 
 ### Pipeline steps
 1. setup environment
